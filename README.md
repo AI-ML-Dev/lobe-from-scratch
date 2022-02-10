@@ -1,4 +1,4 @@
-# Template For Using Lobe.AI Models in Scratch Projects
+# Use Lobe.AI From Scratch
 
 The purpose is to explore the use of Lobe.AI models in Scratch projects, and create a template/tutorial that allows others to replicate this for new Lobe.AI-friendly use cases. The project structure is as follows:
 
