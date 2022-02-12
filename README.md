@@ -1,6 +1,6 @@
 # A Kids Guide to Lobe.AI - From Scratch!
 
-[Lobe.AI](https://www.lobe.ai/) is Microsoft's tool to _help you train machine learning models_ in a free, easy-to-use way. We often hear the words "so easy a child could do it!". And we believe Lobe.AI is just that easy. So we created an illustrated guide to Lobe.AI, along with kid-friendly project ideas and tutorials, as a **pAIr-ent programming** introduction to Lobe.AI.
+[Lobe.AI](https://www.lobe.ai/) is Microsoft's tool to _help you train machine learning models_ in a free, easy-to-use way. We often hear the words "so easy a child could do it!". And we believe Lobe.AI is just that easy. So we created an illustrated guide to Lobe.AI, along with kid-friendly project ideas and tutorials, as a **pAIr-ent programming** introduction to computer vision, image classification and other AI concepts and tools.
 
 In the context of the [AI Kids Kit](https://aka.ms/ai-kids-kit), this project will demonstrate assets and templates to support _conversational_ learning, _pair_ programming, and _parent-child_ project ideas that can help kids see and explore AI concepts in a real world context at home and school.
 
